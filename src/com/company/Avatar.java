@@ -17,13 +17,7 @@ public class Avatar {
             return false;
     }
 
-    int attack(){
-            if(getHand()!=null){
 
-            }else {
-                return 0;
-            }
-    }
 
 
 
